@@ -1,0 +1,12 @@
+./miPrincipal/Principal.java
+./geometric/Cuadrado.java
+./geometric/CalculadoraGeometrica.java
+./geometric/CalculadoraGRectangulo.java
+./geometric/Circulo.java
+./geometric/Rectangulo.java
+./geometric/CalculadoraGElipse.java
+./geometric/CalculadoraGCirculos.java
+./geometric/Elipse.java
+./geometric/Figura.java
+./geometric/CalculadoraGCuadrado.java
+./miTest/AppTest.java
